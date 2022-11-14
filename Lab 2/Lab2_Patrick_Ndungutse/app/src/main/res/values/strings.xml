@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pndungut Lab 2</string>
+    <string name="drawer_botton">Drawer Button</string>
+    <string name="button_to_change">Button to change</string>
+    <string name="greeting">Hello</string>
+    <string name="scotty">Scotty Dog</string>
+    <string name="buttonHello">Say hi</string>
+    <string name="enterName">Name</string>
+    <string name="submit_button">Submit</string>
+</resources>
